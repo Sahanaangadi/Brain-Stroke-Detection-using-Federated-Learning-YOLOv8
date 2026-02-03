@@ -1,0 +1,11 @@
+streamlit
+pillow
+ultralytics == 8.3.103
+bcrypt
+pandas
+plotly
+torch
+opencv-python
+numpy
+matplotlib
+scipy
